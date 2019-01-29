@@ -6,13 +6,13 @@
 1.  Data cleaning
 2.  Feature engineering
 3.  Feature extraction
-4. One-hot encoding
+4.  One-hot encoding
 
 
 ## 2. Model selection
-1. Selected multiple models
-2. Cross-validation on different models
-3. Inspected models performance
+1. Fitted data into multiple models
+2. Inspected models' performance with cross-validation
+3. Selected good-performance models for future ensembling them together.
 
 
 
@@ -21,4 +21,9 @@
 
 ## 3.2 Ensemble models with Super Learner
 1. Multi-layer ensemble learning 
-http://ml-ensemble.com/info/tutorials/advanced.html#advanced-subsemble-techniques
+ http://ml-ensemble.com/info/tutorials/advanced.html#advanced-subsemble-techniques
+ 
+ 
+ 
+ 
+ ### Ranking as 9% at present.
